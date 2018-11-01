@@ -1,5 +1,5 @@
 [![Azure DevOps Services](https://mseng.visualstudio.com/_apis/public/build/definitions/698eacea-9ea2-4eb8-80a4-d06170edf6bc/5908/badge)](https://mseng.visualstudio.com/azdos-cli/_build/index?context=mine&path=%5C&definitionId=6169&_a=completed)
-[![Python](https://img.shields.io/pypi/pyversions/azdos-cli.svg)](https://pypi.python.org/pypi/azdos-cli)
+[![Python](https://img.shields.io/pypi/pyversions/vsts-cli.svg)](https://pypi.python.org/pypi/vsts-cli)
 
 # Microsoft Azure DevOps Services CLI 
 
